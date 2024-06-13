@@ -1,0 +1,12 @@
+venv
+
+runs
+
+modelBank
+escooters/dataBank/FOOTAGE/*
+escooters/dataBank/IMAGES/*
+
+escooters/dataBank/IMAGES
+escooters/predictions_video
+
+yolo8n.pt
